@@ -6,7 +6,8 @@
   },
   "scripts": {
     "init": "resumed init",
-    "generate": "resumed --theme jsonresume-theme-even",
+    "generate": "resumed --theme jsonresume-theme-even --output index.html",
+    "resumed": "resumed",
     "watch": "npm-watch"
   },
   "dependencies": {
