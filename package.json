@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "type": "module",
+  "watch": {
+    "generate": "resume.json"
+  },
+  "scripts": {
+    "init": "resumed init",
+    "generate": "resumed --theme jsonresume-theme-even",
+    "watch": "npm-watch"
+  },
+  "dependencies": {
+    "jsonresume-theme-even": "^0.22.0",
+    "npm-watch": "^0.11.0",
+    "resumed": "^3.0.0"
+  }
+}

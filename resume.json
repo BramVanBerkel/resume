@@ -1,0 +1,131 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Bram van Berkel",
+    "label": "Back-end Developer",
+    "image": "https://media.licdn.com/dms/image/C4E03AQGhvf7wmw3h0g/profile-displayphoto-shrink_400_400/0/1659524390020?e=1704931200&v=beta&t=5HB-rS8ttyxoIx7uFkAa_YY9YoLXCUlH5qoPEUiA3oI",
+    "summary": "Backend Laravel developer with 5 years of experience in designing and implementing web applications. Skilled in Laravel, PHP, Javascript and Typescript, SQL and a little bit of Go. Passionate about staying current with industry trends.",
+    "location": {
+      "city": "Utrecht",
+      "countryCode": "NL",
+      "region": "Utrecht"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "bram-van-berkel",
+        "url": "https://www.linkedin.com/in/bram-van-berkel"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "HoorayHR",
+      "location": "Utrecht",
+      "description": "HoorayHR is the all-in-one HR platform for entrepreneurs. Streamline your HR tasks in one simple environment.",
+      "position": "Backend Typescript Developer",
+      "url": "https://www.hoorayhr.io/",
+      "startDate": "2023-01",
+      "summary": "At Hooray I worked with the team to deliver new features and supported our Customer Success team",
+      "highlights": [
+        "Work with the development team on the back-end of the application, using Typescript",
+        "Implemented advanced monitoring, allowing us to keep an eye on the load, requests and stability"
+      ]
+    },
+    {
+      "name": "DIJ",
+      "location": "Utrecht / Apeldoorn",
+      "description": "Dedicated Digital Development Teams",
+      "position": "Backend Laravel Developer",
+      "url": "https://dij.digital/",
+      "startDate": "2022-05",
+      "endDate": "2022-12",
+      "summary": "As a Backend Developer at DIJ, we worked for various clients, ranging from car rental companies to pharmacies.",
+      "highlights": [
+        "Maintained existing platforms and helped shape the foundation of new applications"
+      ]
+    },
+    {
+      "name": "Solvari",
+      "location": "Nieuwegein",
+      "description": "Find and compare specialists to enhance your home.",
+      "position": "Backend Laravel Developer",
+      "url": "https://www.solvari.nl/",
+      "startDate": "2019-10",
+      "endDate": "2022-04",
+      "summary": "Solvari is a platform that helps homeowners find the right professional for their job. Be it the installation of solar panels or adding insulation.",
+      "highlights": [
+        "Worked with the Product owner and UX designers on the B2B side of Solvari",
+        "Responsible for the API connections with the systems of our professionals"
+      ]
+    },
+    {
+      "name": "Luminext",
+      "location": "Doorn",
+      "description": "Luminext smart lighting systems to control public lighting. Dim the street lighting and only illuminate when neede. Save energy and costs.",
+      "position": "Symfony Developer",
+      "url": "https://www.luminext.eu/",
+      "startDate": "2018-12",
+      "endDate": "2019-09"
+    },
+    {
+      "name": "BasiCall",
+      "location": "Culemborg",
+      "description": "Luminext smart lighting systems to control public lighting. Dim the street lighting and only illuminate when neede. Save energy and costs.",
+      "position": "Symfony Developer",
+      "url": "https://www.luminext.eu/",
+      "startDate": "2017-01",
+      "endDate": "2018-09"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Drone flying",
+      "keywords": [
+        "https://www.youtube.com/@bvanberkel",
+        "https://www.pexels.com/@bram-van-berkel"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Sem Bogaarts",
+      "reference": "Bram is a dynamic team player who fully commits and has an instinct for the right course. His contribution is an asset to any team!"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MuntBook",
+      "url": "https://github.com/BramVanBerkel/MuntBook",
+      "description": "A blockchain explorer for the dutch \"Munt\" coin, previously \"Gulden\"",
+      "highlights": [
+        "Built using Laravel, AlpineJS, TailwindUI, Postgres and hosted via Forge",
+        "Dashboards to monitor the health of the blockchain",
+        "Featured on CoinMarketCap as Chain exporer for Munt"
+      ],
+      "keywords": [
+        "Blockchain",
+        "Laravel",
+        "AlpineJS"
+      ],
+      "roles": [
+        "Creator"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
