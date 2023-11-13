@@ -6,9 +6,9 @@
   },
   "scripts": {
     "init": "resumed init",
-    "generate": "resumed --theme jsonresume-theme-even --output index.html",
     "resumed": "resumed",
-    "watch": "npm-watch"
+    "generate": "resumed --theme jsonresume-theme-even --output index.html",
+    "watch": "npm-watch generate"
   },
   "dependencies": {
     "jsonresume-theme-even": "^0.22.0",

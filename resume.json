@@ -3,7 +3,7 @@
   "basics": {
     "name": "Bram van Berkel",
     "label": "Back-end Developer",
-    "image": "https://media.licdn.com/dms/image/C4E03AQGhvf7wmw3h0g/profile-displayphoto-shrink_400_400/0/1659524390020?e=1704931200&v=beta&t=5HB-rS8ttyxoIx7uFkAa_YY9YoLXCUlH5qoPEUiA3oI",
+    "image": "profile.jpg",
     "summary": "Backend Laravel developer with 5 years of experience in designing and implementing web applications. Skilled in Laravel, PHP, Javascript and Typescript, SQL and a little bit of Go. Passionate about staying current with industry trends.",
     "location": {
       "city": "Utrecht",
@@ -26,10 +26,10 @@
       "position": "Backend Typescript Developer",
       "url": "https://www.hoorayhr.io/",
       "startDate": "2023-01",
-      "summary": "At Hooray I worked with the team to deliver new features and supported our Customer Success team",
+      "summary": "At Hooray I worked with the team to deliver new features and support our Customer Success team",
       "highlights": [
         "Work with the development team on the back-end of the application, using Typescript",
-        "Implemented advanced monitoring, allowing us to keep an eye on the load, requests and stability"
+        "Implemented advanced monitoring, allowing us to keep an eye on things like load, requests and stability"
       ]
     },
     {
@@ -71,8 +71,8 @@
     {
       "name": "BasiCall",
       "location": "Culemborg",
-      "description": "Luminext smart lighting systems to control public lighting. Dim the street lighting and only illuminate when neede. Save energy and costs.",
-      "position": "Symfony Developer",
+      "description": "Call center application",
+      "position": "Support / PHP Developer",
       "url": "https://www.luminext.eu/",
       "startDate": "2017-01",
       "endDate": "2018-09"
@@ -99,7 +99,7 @@
   ],
   "references": [
     {
-      "name": "Sem Bogaarts",
+      "name": "Sem Bogaarts (https://github.com/sembogaarts)",
       "reference": "Bram is a dynamic team player who fully commits and has an instinct for the right course. His contribution is an asset to any team!"
     }
   ],
