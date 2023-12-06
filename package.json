@@ -11,7 +11,7 @@
     "watch": "npm-watch generate"
   },
   "dependencies": {
-    "jsonresume-theme-even": "^0.22.0",
+    "jsonresume-theme-even": "github:BramVanBerkel/jsonresume-theme-even",
     "npm-watch": "^0.11.0",
     "resumed": "^3.0.0"
   }
