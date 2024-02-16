@@ -121,6 +121,24 @@
       "roles": [
         "Creator"
       ]
+    },
+    {
+      "name": "Testnummers.dev",
+      "url": "https://testnummers.dev",
+      "description": "A site for developers to quickly generate test numbers",
+      "highlights": [
+        "Built using Vite, Vue, Typescript and Tailwind",
+        "Deployed using Github Pages"
+      ],
+      "keywords": [
+        "Vue",
+        "Vite",
+        "Typescript",
+        "Tailwind"
+      ],
+      "roles": [
+        "Creator"
+      ]
     }
   ],
   "meta": {
