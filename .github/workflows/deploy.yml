@@ -31,13 +31,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Deno
-        uses: denoland/setup-deno@v2
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
-          deno-version: v2.x
+          node-version: 22.x
 
       - name: Render resume
-        run: deno task render
+        run: npm run render
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
