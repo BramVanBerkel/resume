@@ -1,0 +1,195 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Bram van Berkel",
+    "label": "Back-end Developer",
+    "image": "profile.jpg",
+    "summary": "Backend PHP developer with 5 years of experience in designing and implementing web applications. Skilled in PHP, Laravel, Javascript and Typescript, SQL and a little bit of Go. Passionate about staying current with industry trends.",
+    "location": {
+      "city": "Utrecht",
+      "countryCode": "NL",
+      "region": "Utrecht"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "bram-van-berkel",
+        "url": "https://www.linkedin.com/in/bram-van-berkel"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MyWheels",
+      "icon": "mywheels.png",
+      "location": "Amsterdam",
+      "description": "The benefits of car-sharing",
+      "position": "Symfony developer",
+      "url": "https://www.mywheels.nl/",
+      "startDate": "2024-02",
+      "summary": "At MyWheels I worked in the Book-and-Pay team, where we were responsible for (among others): searching for an available car, making a reservation, and paying afterwards. The app is built using React Native and Expo, and the api serving the app using JSON-RPC.",
+      "highlights": [
+        "Collaborate with the frontenders to fix issues and implement new features, and do a little bit of app development when possible",
+        "Helped with the migration to a new PSP, to think out a new architecture for the new payment and invoicing system"
+      ],
+      "keywords": [
+        "Symfony",
+        "JSON-RPC",
+        "SQL",
+        "Mobile app"
+      ]
+    },
+    {
+      "name": "HoorayHR",
+      "icon": "hoorayhr.png",
+      "location": "Utrecht",
+      "description": "HoorayHR is the all-in-one HR platform for entrepreneurs. Streamline your HR tasks in one simple environment.",
+      "position": "Backend Typescript Developer",
+      "url": "https://www.hoorayhr.io/",
+      "startDate": "2022-10",
+      "endDate": "2024-01",
+      "summary": "At Hooray I worked with the team to deliver new features and support our Customer Success team",
+      "highlights": [
+        "Work with the development team on the back-end of the application, using Node, Typescript and FeathersJS",
+        "Implemented advanced monitoring, allowing us to keep an eye on things like load, requests and stability"
+      ],
+      "keywords": [
+        "NodeJS",
+        "Typescript",
+        "FeathersJS",
+        "DataDog"
+      ]
+    },
+    {
+      "name": "DIJ",
+      "icon": "dij.png",
+      "location": "Utrecht / Apeldoorn",
+      "description": "Dedicated Digital Development Teams",
+      "position": "Backend Laravel Developer",
+      "url": "https://dij.digital/",
+      "startDate": "2022-07",
+      "endDate": "2022-10",
+      "summary": "As a Backend Developer at DIJ, we worked for various clients, ranging from car rental companies to pharmacies.",
+      "highlights": [
+        "Maintained existing platforms and helped shape the foundation of new applications"
+      ],
+      "Keywords": [
+        "PHP",
+        "Laravel",
+        "Digital agency"
+      ]
+    },
+    {
+      "name": "Solvari",
+      "icon": "solvari.png",
+      "location": "Nieuwegein",
+      "description": "Find and compare specialists to enhance your home.",
+      "position": "Laravel Developer",
+      "url": "https://www.solvari.nl/",
+      "startDate": "2019-10",
+      "endDate": "2022-06",
+      "summary": "Solvari is a platform that helps homeowners find the right professional for their job. Be it the installation of solar panels or adding insulation.",
+      "highlights": [
+        "Worked with the Product owner and UX designers on the B2B side of Solvari",
+        "Responsible for the API connections with the systems of our professionals"
+      ],
+      "keywords": [
+        "PHP",
+        "Laravel",
+        "B2B",
+        "Vue",
+        "API"
+      ]
+    },
+    {
+      "name": "Luminext",
+      "icon": "luminext.png",
+      "location": "Doorn",
+      "description": "Luminext smart lighting systems to control public lighting. Dim the street lighting and only illuminate when neede. Save energy and costs.",
+      "position": "Symfony Developer",
+      "url": "https://www.luminext.eu/",
+      "startDate": "2018-12",
+      "endDate": "2019-09"
+    },
+    {
+      "name": "BasiCall",
+      "icon": "basicall.png",
+      "location": "Culemborg",
+      "description": "Call center application",
+      "position": "Support / PHP Developer",
+      "url": "https://www.basicall.nl/",
+      "startDate": "2017-01",
+      "endDate": "2018-09"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Drone flying",
+      "keywords": [
+        "https://www.youtube.com/@bvanberkel",
+        "https://www.pexels.com/@bram-van-berkel"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Sem Bogaarts (https://github.com/sembogaarts)",
+      "reference": "Bram is a dynamic team player who fully commits and has an instinct for the right course. His contribution is an asset to any team!"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MuntBook",
+      "url": "https://github.com/BramVanBerkel/MuntBook",
+      "description": "A blockchain explorer for the dutch \"Munt\" coin, previously \"Gulden\". Built together with the community",
+      "highlights": [
+        "Built using Laravel, AlpineJS, TailwindUI, Postgres and hosted via Forge",
+        "Dashboards to monitor the health of the blockchain",
+        "Featured on CoinMarketCap as Chain explorer for Munt"
+      ],
+      "keywords": [
+        "Blockchain",
+        "Laravel",
+        "AlpineJS",
+        "Tailwind"
+      ],
+      "roles": [
+        "Creator"
+      ]
+    },
+    {
+      "name": "Testnummers.dev",
+      "url": "https://testnummers.dev",
+      "description": "A site for developers to quickly generate or validate test numbers. Still in use at previous and current employers",
+      "highlights": [
+        "Built using Vite, Vue, Typescript and Tailwind",
+        "Deployed using Github Pages"
+      ],
+      "keywords": [
+        "Deno",
+        "Vite",
+        "Typescript",
+        "Tailwind",
+        "React"
+      ],
+      "roles": [
+        "Creator"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

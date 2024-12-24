@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "scripts": {
+    "resumed": "resumed",
+    "render": "resumed render resume.json --theme=jsonresume-theme-even --output=dist/index.html"
+  },
+  "author": "Bram van Berkel",
+  "license": "ISC",
+  "description": "My Resume",
+  "dependencies": {
+    "jsonresume-theme-even": "https://github.com/BramVanBerkel/jsonresume-theme-even",
+    "resumed": "^4.0.0"
+  }
+}
