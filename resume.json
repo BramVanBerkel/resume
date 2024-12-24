@@ -51,7 +51,7 @@
       "summary": "At Hooray I worked with the team to deliver new features and support our Customer Success team",
       "highlights": [
         "Work with the development team on the back-end of the application, using Node, Typescript and FeathersJS",
-        "Implemented advanced monitoring, allowing us to keep an eye on things like load, requests and stability"
+        "Implemented advanced monitoring using DataDog, allowing us to keep an eye on things like load, requests and stability"
       ],
       "keywords": [
         "NodeJS",
