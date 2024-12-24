@@ -27,10 +27,10 @@
       "position": "Symfony developer",
       "url": "https://www.mywheels.nl/",
       "startDate": "2024-02",
-      "summary": "At MyWheels I worked in the Book-and-Pay team, where we were responsible for (among others): searching for an available car, making a reservation, and paying afterwards. The app is built using React Native and Expo, and the api serving the app using JSON-RPC.",
+      "summary": "At MyWheels I worked in the Book-and-Pay team, where we were responsible for searching for an available car, making a reservation, and paying afterwards. The app is built using React Native and Expo, and the API serving the app is using JSON-RPC. A big project was the migration to Adyen, where I helped move to a new backend service structure to keep responsibilities separated.",
       "highlights": [
-        "Collaborate with the frontenders to fix issues and implement new features, and do a little bit of app development when possible",
-        "Helped with the migration to a new PSP, to think out a new architecture for the new payment and invoicing system"
+        "Collaborate with the frontenders to fix issues and implement new features, and do a little bit of app development when possible.",
+        "Helped with the migration to a new PSP to think out a new architecture for the payment and invoicing system."
       ],
       "keywords": [
         "Symfony",
@@ -48,10 +48,10 @@
       "url": "https://www.hoorayhr.io/",
       "startDate": "2022-10",
       "endDate": "2024-01",
-      "summary": "At Hooray I worked with the team to deliver new features and support our Customer Success team",
+      "summary": "At Hooray I worked with the team to deliver new features and support our Customer Success team.",
       "highlights": [
-        "Work with the development team on the back-end of the application, using Node, Typescript and FeathersJS",
-        "Implemented advanced monitoring using DataDog, allowing us to keep an eye on things like load, requests and stability"
+        "Work with the development team on the back-end of the application, using Node, TypeScript, and FeathersJS.",
+        "Implemented advanced monitoring using DataDog, allowing us to keep an eye on things like load, requests, and stability."
       ],
       "keywords": [
         "NodeJS",
@@ -69,7 +69,7 @@
       "url": "https://dij.digital/",
       "startDate": "2022-07",
       "endDate": "2022-10",
-      "summary": "As a Backend Developer at DIJ, we worked for various clients, ranging from car rental companies to pharmacies.",
+      "summary": "As a backend developer at DIJ, we worked for various clients, ranging from car rental companies to pharmacies.",
       "highlights": [
         "Maintained existing platforms and helped shape the foundation of new applications"
       ],
@@ -90,7 +90,7 @@
       "endDate": "2022-06",
       "summary": "Solvari is a platform that helps homeowners find the right professional for their job. Be it the installation of solar panels or adding insulation.",
       "highlights": [
-        "Worked with the Product owner and UX designers on the B2B side of Solvari",
+        "Worked with the product owner and UX designers on the B2B side of Solvari",
         "Responsible for the API connections with the systems of our professionals"
       ],
       "keywords": [
@@ -105,7 +105,7 @@
       "name": "Luminext",
       "icon": "luminext.png",
       "location": "Doorn",
-      "description": "Luminext smart lighting systems to control public lighting. Dim the street lighting and only illuminate when neede. Save energy and costs.",
+      "description": "Luminext smart lighting systems to control public lighting. Dim the street lighting and only illuminate when needed. Save energy and costs.",
       "position": "Symfony Developer",
       "url": "https://www.luminext.eu/",
       "startDate": "2018-12",
