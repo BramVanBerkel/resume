@@ -31,12 +31,15 @@
       "summary": "At MyWheels I worked in the Book-and-Pay team, where we were responsible for searching for an available car, making a reservation, and paying afterwards. The app is built using React Native and Expo, and the API serving the app is using JSON-RPC. A big project was the migration to Adyen, where I helped move to a new backend service structure to keep responsibilities separated.",
       "highlights": [
         "Collaborate with the frontenders to fix issues and implement new features, and do a little bit of app development when possible.",
-        "Helped with the migration to a new PSP to think out a new architecture for the payment and invoicing system."
+        "Maintained the existing monolith, while working with the backend team to make a plan to migrate to a new service architecture",
+        "Helped with the migration to a new PSP to think out a new architecture for the payment and invoicing system.",
+        "Worked with the team and Product owner to help shape new features, or improve existing ones"
       ],
       "keywords": [
+        "PHP7.4 / PHP8.4",
         "Symfony",
+        "Postgres",
         "JSON-RPC",
-        "SQL",
         "Mobile app"
       ]
     },
@@ -51,14 +54,15 @@
       "endDate": "2024-01",
       "summary": "At Hooray I worked with the team to deliver new features and support our Customer Success team.",
       "highlights": [
-        "Work with the development team on the back-end of the application, using Node, TypeScript, and FeathersJS.",
-        "Implemented advanced monitoring using DataDog, allowing us to keep an eye on things like load, requests, and stability."
+        "Worked with the development team on the back-end of the application, using Node, TypeScript, and FeathersJS.",
+        "Implemented advanced monitoring using DataDog, allowing Hooray to keep an eye on things like load, requests, and stability."
       ],
       "keywords": [
         "NodeJS",
         "Typescript",
         "FeathersJS",
-        "DataDog"
+        "DataDog",
+        "Websockets"
       ]
     },
     {
