@@ -8,7 +8,9 @@ import resume from "./resume.json" with { type: "json" };
     process.exit();
   }
 
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
+  });
   const page = await browser.newPage();
 
   await page.goto(`file:${path.resolve('dist/index.html')}`);
