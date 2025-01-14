@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "scripts": {
     "resumed": "resumed",
-    "render": "resumed render resume.json --theme=jsonresume-theme-even --output=dist/index.html"
+    "render": "resumed render resume.json --theme=jsonresume-theme-even --output=dist/index.html",
+    "generate-pdf": "node generate-pdf.js",
+    "ci": "npm run render && npm run generate-pdf"
   },
   "author": "Bram van Berkel",
   "license": "ISC",
   "description": "My Resume",
   "dependencies": {
     "jsonresume-theme-even": "https://github.com/BramVanBerkel/jsonresume-theme-even",
+    "puppeteer": "^24.0.0",
     "resumed": "^4.0.0"
-  }
+  },
+  "type": "module"
 }
