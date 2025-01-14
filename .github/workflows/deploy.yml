@@ -39,7 +39,7 @@ jobs:
         run: npm install
 
       - name: Render resume
-        run: npm run render
+        run: npm run ci
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
